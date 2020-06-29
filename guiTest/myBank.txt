@@ -1,0 +1,3 @@
+logan 500000
+king 25222
+queen 50000
